@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZS4D05_EXCEPTIONS</ARBGB>
+    <MASTERLANG>D</MASTERLANG>
+    <STEXT>Definition eigener Exception Klassen</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZS4D05_EXCEPTIONS</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Verbindung &amp;1 &amp;2 existiert nicht.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
